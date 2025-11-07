@@ -24,5 +24,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 ## Contacto
 
 Si tienes alguna pregunta o sugerencia, puedes contactar al desarrollador en:
-* [tu.email@ejemplo.com]
-* [Tu perfil de GitHub/LinkedIn (Opcional)]
+* thomastteixeira@gmail.com
